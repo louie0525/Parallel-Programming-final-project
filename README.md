@@ -1,5 +1,6 @@
 Parallel Programming Fall 2018  
 Final Project Team 22  
+  
 create_data.cpp : 產生data.txt  
 project_serial.cpp : 未平行化版本  
 project_omp_data.cpp : 使用OpenMP對data進行平行化  
