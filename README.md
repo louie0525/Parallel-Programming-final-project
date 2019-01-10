@@ -1,4 +1,4 @@
-Parallel Programming Fall 2018＜/br＞
+Parallel Programming Fall 2018  
 Final Project Team 22＜/br＞
 
 create_data.cpp : 產生data.txt
