@@ -1,6 +1,6 @@
 Parallel Programming Fall 2018  
 Final Project  
-Team 22
+Team 22  
 ID: 0650282, 0650287, 0650300  
   
 create_data.cpp : 產生data.txt  
