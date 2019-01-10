@@ -1,5 +1,7 @@
 Parallel Programming Fall 2018  
-Final Project Team 22  
+Final Project  
+Team 22
+ID: 0650282
   
 create_data.cpp : 產生data.txt  
 project_serial.cpp : 未平行化版本  
